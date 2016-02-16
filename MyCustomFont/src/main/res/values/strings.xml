@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyCustomFont</string>
+    <string name="button_label_default_font">Default</string>
+    <string name="button_label_custom_font">Custom</string>
+    <string name="button_label_custom_font_adjusted">Custom(adjusted)</string>
+    <string-array name="sample_words">
+        <item>ふるさとの 訛なつかし 停車場の</item>
+        <item>人ごみの中に そを聴きにゆく</item>
+    </string-array>
+</resources>
